@@ -1,0 +1,20 @@
+a{
+    text-decoration: none;
+}
+
+img{
+    right: 100px;
+    border: 5px solid rgb(17, 17, 238);
+}
+
+body{
+    background-color: rgb(96, 221, 200);
+}
+
+[class*=link]:hover{
+    color:black;
+}
+
+[class*=link2]:hover{
+    color:black;
+}
